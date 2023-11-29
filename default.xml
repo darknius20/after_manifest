@@ -16,6 +16,9 @@
            fetch="https://github.com/ArrowOS"
            revision="arrow-13.1" />
 
+  <remote  name="github"
+           fetch="https://github.com"/>
+
   <remote name="droidx"
         fetch="https://github.com/DroidX-UI"
         sync-j="8"
