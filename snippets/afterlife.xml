@@ -32,8 +32,8 @@
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
-  <project path="art" name="art" groups="pdk" remote="afterlife" />
-  <project path="bionic" name="bionic" groups="pdk" remote="afterlife" />
+  <project path="art" name="Night-Raids-Reborn/blaze_art" remote="github" revision="13" />
+  <project path="bionic" name="Night-Raids-Reborn/blaze_bionic" remote="github" revision="13" />
   <project path="bootable/recovery" name="bootable_recovery" remote="afterlife" />
 
   <!-- hardware -->
